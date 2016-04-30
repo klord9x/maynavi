@@ -1,0 +1,2 @@
+# maynavi
+Magento maynavi
